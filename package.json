@@ -1,0 +1,25 @@
+{
+  "name": "401-data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithm Challenges for Code 401",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethan-luxton/401-data-structures-and-algorithms.git"
+  },
+  "author": "Ethan Luxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethan-luxton/401-data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/ethan-luxton/401-data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
