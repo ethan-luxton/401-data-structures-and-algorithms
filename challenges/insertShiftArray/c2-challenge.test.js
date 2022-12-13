@@ -1,4 +1,4 @@
-const c2 = require('../challenges/c2_array-insert-shift')
+const c2 = require('./c2_array-insert-shift')
 
 describe('Code Challenge Two Test', () => {
     test('Tests the function using the simplest input', () => {
