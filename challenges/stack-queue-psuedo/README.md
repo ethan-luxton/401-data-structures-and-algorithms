@@ -24,4 +24,6 @@ Challenge Type: Code Challenge / Algorithm
 
 ## Whiteboard
 
+### Collaboration: Ezgi & Ethan
+
 ![.](https://i.imgur.com/qe8z8Mo.png)
