@@ -29,8 +29,9 @@ describe("Animal Shelter", () => {
         newQueue.enqueue("dog");
         newQueue.enqueue("cat");
         newQueue.enqueue("dog");
-        newQueue.dequeue("dog");
+        
         newQueue.dequeue("cat");
+        newQueue.dequeue("dog");
         newQueue.dequeue("dog");
         let output = newQueue.toString();
         
