@@ -17,6 +17,6 @@ Challenge Type: Code Challenge / Algorithm / Interview Challenge
 
 ## Whiteboard
 
-### Collaboration: Interviewer: Andra Steele, Interviewee: Ethan Luxotn
+### Collaboration: Interviewer: Andra Steele, Interviewee: Ethan Luxton
 
 ![.](https://i.imgur.com/zgZawxT.png)
