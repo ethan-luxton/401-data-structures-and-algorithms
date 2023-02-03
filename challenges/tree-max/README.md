@@ -15,3 +15,6 @@ Challenge Type: Extending an Implementation
 
 Find the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 
+## Whiteboard
+
+![.](https://i.imgur.com/oCgNgMD.png)
