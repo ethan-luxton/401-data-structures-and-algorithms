@@ -16,10 +16,10 @@ Challenge Type: New Implementation
 ### Binary Tree
 
 * Create Binary Tree class
-    * Define a method for each of thre depth frist traversals
+    * Define a method for each of three depth first traversals
         * pre order
         * in order
-        * post orderwsd
+        * post ordered
 
     * Each depth first traversal method should return an array of values, ordered appropriately.
 
