@@ -80,7 +80,26 @@ class BST extends BinaryTree {
       return;
     }
   }
+  addString(string) {
+    let newNode = new Node(string);
+    if (!this.root) {
+      this.root = newNode;
+    } else {
+      _walk(this.root, newNode);
+    }
 
+    function _walk(current, newNode) {
+      if (newNode.value < current.value) {
+        if (current.left) _walk(current.left, newNode);
+        else current.left = newNode;
+      } else {
+        if (current.right) _walk(current.right, newNode);
+        else current.right = newNode;
+      }
+      return;
+    }
+  }
+  
   contains(number) {
     if (!this.root) return false;
     else return _walk(this.root, number);
