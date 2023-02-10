@@ -24,7 +24,4 @@ function breadthFirst(treeRoot) {
     return result;
   }
 
-
-
-
 module.exports = breadthFirst;
