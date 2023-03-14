@@ -16,4 +16,4 @@ Output: An array
 
 ## Whiteboard
 
-![.](https://i.imgur.com/OMSPkpN.png)
+![.](https://i.imgur.com/olIHuTD.png)
