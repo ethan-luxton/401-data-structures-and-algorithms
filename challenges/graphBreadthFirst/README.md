@@ -3,7 +3,7 @@
 ### Implementation: Graph Breadth First Traversal
 
 Challenge Setup & Execution
-Branch Name: graph-breadth-first
+Branch Name: graph-depth-first
 
 Challenge Type: Extending an Implementation
 
